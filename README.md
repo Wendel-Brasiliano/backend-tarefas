@@ -51,3 +51,6 @@ npm install
 
 npm start
 Servidor:http://localhost:3000
+
+Observação:
+Os dados são armazenados em memória.
